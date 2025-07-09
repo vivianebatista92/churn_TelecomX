@@ -1,7 +1,17 @@
 # Análise de Churn de Clientes - Telecom X
 
-![Telecom Banner](https://i.imgur.com/8Bv2s2A.png)
-*Banner ilustrativo para o projeto*
+<p align="center">
+<img 
+    src="src/demonstracao_projeto.gif"
+   style="width: 70%; height: auto;"
+    >
+
+<p align="center">
+    preview do projeto
+</p>
+
+> ℹ️ **NOTE:** Projeto desenvolvido para a formação de Data Science do programa [ONE - Oracle Next Educacion](https://www.oracle.com/br/education/oracle-next-education/) realizada na plataforma [Alura](https://www.alura.com.br/).
+---
 
 ## 📖 Sobre o Projeto
 
@@ -80,3 +90,7 @@ Para replicar a análise, siga os passos abaixo:
 
 ---
 
+<p align="center">
+<img 
+    src="src/projetos_banner.gif"
+    >
