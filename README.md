@@ -19,7 +19,7 @@ Este projeto consiste em uma **análise de evasão (churn) de clientes** para a 
 
 A análise busca encontrar padrões no comportamento e no perfil dos clientes que evadem, fornecendo insights valiosos que podem ser utilizados pela equipe de Data Science para construir modelos preditivos e, consequentemente, ajudar a empresa a desenvolver estratégias eficazes para a retenção de clientes.
 
-O relatório completo, com todas as visualizações de dados, análises detalhadas e conclusões, está documentado no notebook `analise_churn.ipynb` contido neste repositório.
+O relatório completo, com todas as visualizações de dados, análises detalhadas e conclusões, está documentado no notebook `churn_TelecomX.ipynb` contido neste repositório.
 
 ## 🛠️ Tecnologias Utilizadas
 
